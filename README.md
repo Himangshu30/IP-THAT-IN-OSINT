@@ -12,7 +12,7 @@ C. Problem Statement:
 
 2.Multi-Platform Compatibility
 
-3.Real-Time Tracking:
+3.Real-Time Tracking
 
 
 
